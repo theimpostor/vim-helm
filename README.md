@@ -1,8 +1,8 @@
 # vim-helm
 vim syntax for helm templates (yaml + gotmpl + sprig + custom)
 
-Install via vundle:
+Install via Vundle:
 
 ```vim
-Plugin 'towolf/helm-vim'
+Plugin 'theimpostor/helm-vim'
 ```
